@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to KK JavaTutorials..</h2>
+<h2>This is Rakshit and my app is deployed on tomcat server</h2>
 </body>
 </html>
